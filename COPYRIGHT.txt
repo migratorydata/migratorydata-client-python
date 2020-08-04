@@ -1,0 +1,8 @@
+MigratoryData Client SDK for Python
+Copyright (c) 2007-2020 Migratory Data Systems (http://migratorydata.com)
+ALL RIGHTS RESERVED.
+
+This product is distributed under licenses restricting its use, copying
+distribution, and decompilation.
+
+Please refer to the LICENSE.txt file for the license terms.
